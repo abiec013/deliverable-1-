@@ -1,0 +1,7 @@
+C:\Users\Abe\source\repos\Deliverablenumber1\obj\Debug\Deliverablenumber1.csprojResolveAssemblyReference.cache
+C:\Users\Abe\source\repos\Deliverablenumber1\obj\Debug\Deliverablenumber1.csproj.CoreCompileInputs.cache
+C:\Users\Abe\source\repos\Deliverablenumber1\bin\Debug\Deliverablenumber1.exe.config
+C:\Users\Abe\source\repos\Deliverablenumber1\bin\Debug\Deliverablenumber1.exe
+C:\Users\Abe\source\repos\Deliverablenumber1\bin\Debug\Deliverablenumber1.pdb
+C:\Users\Abe\source\repos\Deliverablenumber1\obj\Debug\Deliverablenumber1.exe
+C:\Users\Abe\source\repos\Deliverablenumber1\obj\Debug\Deliverablenumber1.pdb
